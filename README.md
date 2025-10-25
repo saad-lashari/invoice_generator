@@ -164,9 +164,10 @@ Below are a few sample screens from the app (SVG placeholders included in `asset
 UI Overview
 
 
-(assets/screenshots/tepplate.png)
-(assets/screenshots/create1.png)
-(assets/screenshots/create2.png)
-(assets/screenshots/create3.png)
-(assets/screenshots/history.png)
+### UI Overview
 
+![Template Screen](assets/screenshots/template.png)
+![Create Invoice 1](assets/screenshots/create1.png)
+![Create Invoice 2](assets/screenshots/create2.png)
+![Create Invoice 3](assets/screenshots/create3.png)
+![History Screen](assets/screenshots/history.png)

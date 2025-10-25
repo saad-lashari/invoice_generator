@@ -1,5 +1,15 @@
 # invoice_generator
 
+<h2 align="center">✨ App Feature Poster ✨</h2>
+
+<p align="center">
+  <img src="assets/screenshots/template.png" alt="Template Screen" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="assets/screenshots/create1.png" alt="Create Invoice 1" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="assets/screenshots/create2.png" alt="Create Invoice 2" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="assets/screenshots/create3.png" alt="Create Invoice 3" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="assets/screenshots/home.png" alt="History Screen" width="200" style="margin: 10px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+</p>
+
 Invoice Generator is a Flutter application for creating, managing, and exporting invoices. It provides a simple UI to build invoices from templates, store invoice history locally, and export or share invoices as PDF or other formats supported by the app.
 
 ## Table of contents
@@ -163,11 +173,3 @@ Below are a few sample screens from the app (SVG placeholders included in `asset
 
 UI Overview
 
-
-### UI Overview
-
-![Template Screen](assets/screenshots/template.png)
-![Create Invoice 1](assets/screenshots/create1.png)
-![Create Invoice 2](assets/screenshots/create2.png)
-![Create Invoice 3](assets/screenshots/create3.png)
-![History Screen](assets/screenshots/history.png)
